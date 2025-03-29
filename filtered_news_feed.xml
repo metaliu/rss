@@ -4,7 +4,7 @@
     <title>NYTimes Filtered</title>
     <link>https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml</link>
     <description>Filtered news feed based on specified categories.</description>
-    <pubDate>Sat, 29 Mar 2025 19:59:42 UTC</pubDate>
+    <pubDate>Sat, 29 Mar 2025 20:14:14 UTC</pubDate>
     <item>
       <title>How Lee Zeldin Went From Environmental Moderate to Dismantling the E.P.A.</title>
       <link>https://www.nytimes.com/2025/03/29/climate/lee-zeldin-epa.html</link>
@@ -42,11 +42,32 @@
       <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">Robert F. Kennedy Jr., the health secretary, at the U.S. Capitol in March. Mr. Kennedy has long held that there is a link between certain vaccines and autism.</content:encoded>
     </item>
     <item>
-      <title>Bridges and Tunnels in Colorado Are Helping Animals Commute</title>
-      <link>https://www.nytimes.com/2025/03/25/climate/wildlife-crossings-colorado.html</link>
-      <description>The state has emerged as a leader in building wildlife crossings, which can save animals, money and human lives.</description>
-      <pubDate>Wed, 26 Mar 2025 00:57:34 +0000</pubDate>
-      <author>Catrin Einhorn</author>
+      <title>Dozens of Engaging Ways to Make Media Literacy Meaningful to Teenagers</title>
+      <link>https://www.nytimes.com/2025/03/27/learning/media-literacy-teenagers.html</link>
+      <description>This collection of interactive exercises uses Times resources to help young people find the news that matters to them, understand how it’s made, connect it to their lives — and make media of their own.</description>
+      <pubDate>Thu, 27 Mar 2025 12:03:56 +0000</pubDate>
+      <author>The Learning Network</author>
+    </item>
+    <item>
+      <title>Brandon Flynn and Jordan Tannahill’s Cinematic East Village Apartment</title>
+      <link>https://www.nytimes.com/2025/03/20/t-magazine/brandon-flynn-new-york-apartment.html</link>
+      <description>In Brandon Flynn and the writer Jordan Tannahill’s 750-square-foot East Village apartment, a bold palette is filtered through a minimalist lens.</description>
+      <pubDate>Fri, 21 Mar 2025 15:31:24 +0000</pubDate>
+      <author>Carly Olson and Angela Hau</author>
+    </item>
+    <item>
+      <title>What to Know About Adderall, Ritalin and Other Prescription Stimulants</title>
+      <link>https://www.nytimes.com/2025/03/27/well/mind/adhd-adderall-ritalin-stimulant-facts.html</link>
+      <description>Health Secretary Robert F. Kennedy Jr. has called them poison, but doctors say prescription stimulants like Ritalin and Adderall help millions of people.</description>
+      <pubDate>Thu, 27 Mar 2025 09:02:20 +0000</pubDate>
+      <author>Christina Caron</author>
+    </item>
+    <item>
+      <title>Senate Confirms Bhattacharya and Makary to H.H.S. Posts</title>
+      <link>https://www.nytimes.com/2025/03/25/health/trump-nih-fda-bhattacharya.html</link>
+      <description>Dr. Jay Bhattacharya will direct the N.I.H., and Dr. Martin A. Makary will lead the F.D.A. Both have reputations as medical contrarians.</description>
+      <pubDate>Wed, 26 Mar 2025 01:41:44 +0000</pubDate>
+      <author>Benjamin Mueller</author>
     </item>
   </channel>
 </rss>
