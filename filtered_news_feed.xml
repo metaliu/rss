@@ -4,95 +4,49 @@
     <title>NYTimes Filtered</title>
     <link>https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml</link>
     <description>Filtered news feed based on specified categories.</description>
-    <pubDate>Thu, 27 Mar 2025 22:24:05 UTC</pubDate>
+    <pubDate>Sat, 29 Mar 2025 19:59:42 UTC</pubDate>
     <item>
-      <title>E.P.A. Offers a Way to Avoid Clean-Air Rules: Send an Email</title>
-      <link>https://www.nytimes.com/2025/03/27/climate/epa-air-pollution-exemption-mercury-coal-ash.html</link>
-      <description>Referring to a little-known provision, it said power plants and others could write to seek exemptions to mercury and other restrictions and that “the president will make a decision.”</description>
-      <pubDate>Thu, 27 Mar 2025 17:38:11 +0000</pubDate>
-      <author>Hiroko Tabuchi</author>
-      <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">A coal-burning power plant in Colorado in 2023. The Biden administration had put new rules in place on emissions from power plants.</content:encoded>
+      <title>How Lee Zeldin Went From Environmental Moderate to Dismantling the E.P.A.</title>
+      <link>https://www.nytimes.com/2025/03/29/climate/lee-zeldin-epa.html</link>
+      <description>He once talked about the need to fight climate change. Now, he embraces Elon Musk, lavishes praise on the president and strives to stand out in a MAGA world.</description>
+      <pubDate>Sat, 29 Mar 2025 09:02:20 +0000</pubDate>
+      <author>Lisa Friedman</author>
     </item>
     <item>
-      <title>Tomb of Unknown Pharaoh Is Unearthed in Egypt</title>
-      <link>https://www.nytimes.com/2025/03/27/world/africa/egypt-tomb-pharaoh-abydos.html</link>
-      <description>The burial chamber most likely belonged to a ruler in a line of kings once lost to history, researchers said. “It’s a new chapter in investigating this dynasty,” one noted.</description>
-      <pubDate>Thu, 27 Mar 2025 12:02:00 +0000</pubDate>
-      <author>Alan Yuhas</author>
+      <title>Opinion | Actually, A.I. Is Pretty Mid</title>
+      <link>https://www.nytimes.com/2025/03/29/opinion/ai-tech-innovation.html</link>
+      <description>&lt;div&gt;&lt;img src=&quot;https://static01.nyt.com/images/2025/03/30/opinion/30cottom/29cottom-videoSixteenByNineJumbo1600.jpg&quot; style=&quot;width: 100%;&quot; /&gt;&lt;div&gt;A.I. is just what we need in the post-fact era: less research and more predicting what we want to hear.&lt;/div&gt;&lt;/div&gt;</description>
+      <pubDate>Sat, 29 Mar 2025 11:00:21 GMT</pubDate>
+      <author>Tressie McMillan Cottom</author>
     </item>
     <item>
-      <title>Is Boogie Fland the Next Legendary New York City Point Guard?</title>
-      <link>https://www.nytimes.com/2025/03/27/nyregion/boogie-fland-nyc-basketball-point-guard.html</link>
-      <description>In some ways, the prodigy now starring for Arkansas in the N.C.A.A. tournament is an urban basketball archetype. But this is not the same old story.</description>
-      <pubDate>Thu, 27 Mar 2025 15:42:19 +0000</pubDate>
-      <author>David Waldstein</author>
-      <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">Boogie Fland, a highly touted freshman from New York, recovered from surgery just in time to help the Arkansas Razorbacks make a run in the N.C.A.A. tournament.</content:encoded>
+      <title>He’s Dead, but He’s Everybody’s Weapon of Choice</title>
+      <link>https://www.nytimes.com/2025/03/29/magazine/trump-george-orwell-1984.html</link>
+      <description>&lt;div&gt;&lt;img src=&quot;https://static01.nyt.com/images/2025/04/06/magazine/06mag-orewell/06mag-orewell-videoSixteenByNine3000.jpg&quot; style=&quot;width: 100%;&quot; /&gt;&lt;div&gt;George Orwell is easy to quote, but what would the iconoclastic British socialist really have thought about politics today?&lt;/div&gt;&lt;/div&gt;</description>
+      <pubDate>Sat, 29 Mar 2025 09:02:19 GMT</pubDate>
+      <author>Matthew Purdy</author>
     </item>
     <item>
-      <title>Jazzed About Abstraction: Jack Whitten’s Show Is a Peak MoMA Moment</title>
-      <link>https://www.nytimes.com/2025/03/27/arts/design/jack-whitten-moma-review-museum.html</link>
-      <description>Over nearly six decades, this fantastically inventive artist experimented with paint, turning it into a sculptural medium. Our critic calls his survey “scintillating and sweeping.”</description>
-      <pubDate>Thu, 27 Mar 2025 15:00:21 +0000</pubDate>
-      <author>Holland Cotter</author>
-      <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">Jack Whitten, “9.11.01” (2006), a 20-foot-long memorial to the destruction of the World Trade Center on 9/11, an event that he witnessed firsthand.</content:encoded>
-    </item>
-    <item>
-      <title>How to Have a Passionate Life</title>
-      <link>https://www.nytimes.com/2025/03/27/opinion/persistence-work-difficulty.html</link>
-      <description>A surprising route to the best life possible.</description>
-      <pubDate>Thu, 27 Mar 2025 21:00:08 +0000</pubDate>
-      <author>David Brooks</author>
-    </item>
-    <item>
-      <title>David M. Childs, Architect of 1 World Trade Center, Dies at 83</title>
-      <link>https://www.nytimes.com/2025/03/27/arts/design/david-m-childs-dead.html</link>
-      <description>The antithesis of a “starchitect,” he didn’t have a recognizable style. But as a partner at Skidmore, Owings &amp; Merrill, he helped transform the New York skyline.</description>
-      <pubDate>Thu, 27 Mar 2025 17:29:53 +0000</pubDate>
-      <author>David W. Dunlap</author>
-      <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">Mr. Childs with a scale model of 1 World Trade Center in 2006.</content:encoded>
-    </item>
-    <item>
-      <title>Opinion | How to Have a Passionate Life</title>
-      <link>https://www.nytimes.com/2025/03/27/opinion/persistence-work-difficulty.html</link>
-      <description>&lt;div&gt;&lt;img src=&quot;https://static01.nyt.com/images/2025/03/27/opinion/27brooks/27brooks-videoSixteenByNine3000.jpg&quot; style=&quot;width: 100%;&quot; /&gt;&lt;div&gt;A surprising route to the best life possible.&lt;/div&gt;&lt;/div&gt;</description>
-      <pubDate>Thu, 27 Mar 2025 21:00:08 GMT</pubDate>
-      <author>David Brooks</author>
-    </item>
-    <item>
-      <title>Tomb of Unknown Pharaoh Is Unearthed in Egypt</title>
-      <link>https://www.nytimes.com/2025/03/27/world/africa/egypt-tomb-pharaoh-abydos.html</link>
-      <description>&lt;div&gt;&lt;img src=&quot;https://static01.nyt.com/images/2025/03/27/multimedia/27int-tomb-1-bhlc/27int-tomb-1-bhlc-videoSixteenByNine3000.jpg&quot; style=&quot;width: 100%;&quot; /&gt;&lt;div&gt;The burial chamber most likely belonged to a ruler in a line of kings once lost to history, researchers said. “It’s a new chapter in investigating this dynasty.”&lt;/div&gt;&lt;/div&gt;</description>
-      <pubDate>Thu, 27 Mar 2025 09:04:09 GMT</pubDate>
-      <author>Alan Yuhas</author>
+      <title>‘A Tiny Bit of Math’ Might Improve Your Heart Health, Study Suggests</title>
+      <link>https://www.nytimes.com/2025/03/29/health/heart-health-steps-smartwatch.html</link>
+      <description>Your average daily heart rate is a useful metric; so is your daily step count. Combining the two might be even better.</description>
+      <pubDate>Sat, 29 Mar 2025 13:30:04 +0000</pubDate>
+      <author>Matt Richtel</author>
     </item>
     <item>
       <title>RFK Jr. Turns to a Discredited Vaccine Researcher for Autism Study</title>
       <link>https://www.nytimes.com/2025/03/27/health/rfk-jr-autism-vaccines.html</link>
       <description>David Geier has been hired as a senior data analyst at H.H.S. According to several people, he will examine any potential links between vaccines and autism that were debunked long ago.</description>
-      <pubDate>Thu, 27 Mar 2025 22:00:30 +0000</pubDate>
+      <pubDate>Fri, 28 Mar 2025 01:06:54 +0000</pubDate>
       <author>Christina Jewett, Emily Baumgaertner Nunn and Sheryl Gay Stolberg</author>
       <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">Robert F. Kennedy Jr., the health secretary, at the U.S. Capitol in March. Mr. Kennedy has long held that there is a link between certain vaccines and autism.</content:encoded>
     </item>
     <item>
-      <title>What to Know About Adderall, Ritalin and Other Prescription Stimulants</title>
-      <link>https://www.nytimes.com/2025/03/27/well/mind/adhd-adderall-ritalin-stimulant-facts.html</link>
-      <description>Health Secretary Robert F. Kennedy Jr. has called them poison, but doctors say prescription stimulants like Ritalin and Adderall help millions of people.</description>
-      <pubDate>Thu, 27 Mar 2025 09:02:19 +0000</pubDate>
-      <author>Christina Caron</author>
-    </item>
-    <item>
-      <title>Senate Confirms Bhattacharya and Makary to H.H.S. Posts</title>
-      <link>https://www.nytimes.com/2025/03/25/health/trump-nih-fda-bhattacharya.html</link>
-      <description>Dr. Jay Bhattacharya will direct the N.I.H., and Dr. Martin A. Makary will lead the F.D.A. Both have reputations as medical contrarians.</description>
-      <pubDate>Wed, 26 Mar 2025 01:41:44 +0000</pubDate>
-      <author>Benjamin Mueller</author>
-    </item>
-    <item>
-      <title>Dementia May Not Always Be the Threat It Is Now. Here’s Why.</title>
-      <link>https://www.nytimes.com/2025/03/22/health/dementia-rates-elderly.html</link>
-      <description>The number of cases will increase, but the rates seem to be declining with every birth cohort that reaches advanced ages, researchers said.</description>
-      <pubDate>Sat, 22 Mar 2025 09:02:25 +0000</pubDate>
-      <author>Paula Span</author>
+      <title>Bridges and Tunnels in Colorado Are Helping Animals Commute</title>
+      <link>https://www.nytimes.com/2025/03/25/climate/wildlife-crossings-colorado.html</link>
+      <description>The state has emerged as a leader in building wildlife crossings, which can save animals, money and human lives.</description>
+      <pubDate>Wed, 26 Mar 2025 00:57:34 +0000</pubDate>
+      <author>Catrin Einhorn</author>
     </item>
   </channel>
 </rss>
