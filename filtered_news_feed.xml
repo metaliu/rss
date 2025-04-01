@@ -4,7 +4,7 @@
     <title>NYTimes Filtered</title>
     <link>https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml</link>
     <description>Filtered news feed based on specified categories.</description>
-    <pubDate>Tue, 01 Apr 2025 13:51:55 UTC</pubDate>
+    <pubDate>Tue, 01 Apr 2025 14:02:11 UTC</pubDate>
     <item>
       <title>‘White Lotus’ Highlights the Way Old Friends Bring Out Our Worst Selves</title>
       <link>https://www.nytimes.com/2025/04/01/well/live/white-lotus-friendship-teenagers.html</link>
@@ -27,28 +27,6 @@
       <pubDate>Mon, 31 Mar 2025 20:44:42 +0000</pubDate>
       <author>Ben Brantley</author>
       <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">Paul Robeson, the first Black man to play Othello on Broadway, with Uta Hagen as Desdemona in the 1943 production. His watershed portrayal was wildly acclaimed.</content:encoded>
-    </item>
-    <item>
-      <title>‘A Tiny Bit of Math’ Might Improve Your Heart Health, Study Suggests</title>
-      <link>https://www.nytimes.com/2025/03/29/health/heart-health-steps-smartwatch.html</link>
-      <description>Your average daily heart rate is a useful metric; so is your daily step count. Combining the two might be even better.</description>
-      <pubDate>Sat, 29 Mar 2025 13:30:04 +0000</pubDate>
-      <author>Matt Richtel</author>
-    </item>
-    <item>
-      <title>RFK Jr. Turns to a Discredited Vaccine Researcher for Autism Study</title>
-      <link>https://www.nytimes.com/2025/03/27/health/rfk-jr-autism-vaccines.html</link>
-      <description>David Geier has been hired as a senior data analyst at H.H.S. According to several people, he will examine any potential links between vaccines and autism that were debunked long ago.</description>
-      <pubDate>Fri, 28 Mar 2025 01:06:54 +0000</pubDate>
-      <author>Christina Jewett, Emily Baumgaertner Nunn and Sheryl Gay Stolberg</author>
-      <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">Robert F. Kennedy Jr., the health secretary, at the U.S. Capitol in March. Mr. Kennedy has long held that there is a link between certain vaccines and autism.</content:encoded>
-    </item>
-    <item>
-      <title>Senate Confirms Bhattacharya and Makary to H.H.S. Posts</title>
-      <link>https://www.nytimes.com/2025/03/25/health/trump-nih-fda-bhattacharya.html</link>
-      <description>Dr. Jay Bhattacharya will direct the N.I.H., and Dr. Martin A. Makary will lead the F.D.A. Both have reputations as medical contrarians.</description>
-      <pubDate>Wed, 26 Mar 2025 01:41:44 +0000</pubDate>
-      <author>Benjamin Mueller</author>
     </item>
   </channel>
 </rss>
