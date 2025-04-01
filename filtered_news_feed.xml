@@ -4,27 +4,29 @@
     <title>NYTimes Filtered</title>
     <link>https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml</link>
     <description>Filtered news feed based on specified categories.</description>
-    <pubDate>Sat, 29 Mar 2025 20:14:14 UTC</pubDate>
+    <pubDate>Tue, 01 Apr 2025 13:51:55 UTC</pubDate>
     <item>
-      <title>How Lee Zeldin Went From Environmental Moderate to Dismantling the E.P.A.</title>
-      <link>https://www.nytimes.com/2025/03/29/climate/lee-zeldin-epa.html</link>
-      <description>He once talked about the need to fight climate change. Now, he embraces Elon Musk, lavishes praise on the president and strives to stand out in a MAGA world.</description>
-      <pubDate>Sat, 29 Mar 2025 09:02:20 +0000</pubDate>
-      <author>Lisa Friedman</author>
+      <title>‘White Lotus’ Highlights the Way Old Friends Bring Out Our Worst Selves</title>
+      <link>https://www.nytimes.com/2025/04/01/well/live/white-lotus-friendship-teenagers.html</link>
+      <description>“The White Lotus” highlights a common phenomenon in long-term friend groups: Nobody ever changes.</description>
+      <pubDate>Tue, 01 Apr 2025 09:03:37 +0000</pubDate>
+      <author>Alisha Haridasani Gupta</author>
     </item>
     <item>
-      <title>Opinion | Actually, A.I. Is Pretty Mid</title>
-      <link>https://www.nytimes.com/2025/03/29/opinion/ai-tech-innovation.html</link>
-      <description>&lt;div&gt;&lt;img src=&quot;https://static01.nyt.com/images/2025/03/30/opinion/30cottom/29cottom-videoSixteenByNineJumbo1600.jpg&quot; style=&quot;width: 100%;&quot; /&gt;&lt;div&gt;A.I. is just what we need in the post-fact era: less research and more predicting what we want to hear.&lt;/div&gt;&lt;/div&gt;</description>
-      <pubDate>Sat, 29 Mar 2025 11:00:21 GMT</pubDate>
-      <author>Tressie McMillan Cottom</author>
+      <title>There’s No Party Like an Iftar Party for Bangladesh’s Aspiring Leaders</title>
+      <link>https://www.nytimes.com/2025/04/01/world/asia/bangladesh-politics.html</link>
+      <description>During Ramadan, political parties used the events to signal potential alliances after the ouster of the country’s authoritarian leader.</description>
+      <pubDate>Tue, 01 Apr 2025 05:54:32 +0000</pubDate>
+      <author>Mujib Mashal</author>
+      <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">Muslims preparing meals for iftar at the Baitul Mukarram National Mosque in Dhaka, Bangladesh, in March.</content:encoded>
     </item>
     <item>
-      <title>He’s Dead, but He’s Everybody’s Weapon of Choice</title>
-      <link>https://www.nytimes.com/2025/03/29/magazine/trump-george-orwell-1984.html</link>
-      <description>&lt;div&gt;&lt;img src=&quot;https://static01.nyt.com/images/2025/04/06/magazine/06mag-orewell/06mag-orewell-videoSixteenByNine3000.jpg&quot; style=&quot;width: 100%;&quot; /&gt;&lt;div&gt;George Orwell is easy to quote, but what would the iconoclastic British socialist really have thought about politics today?&lt;/div&gt;&lt;/div&gt;</description>
-      <pubDate>Sat, 29 Mar 2025 09:02:19 GMT</pubDate>
-      <author>Matthew Purdy</author>
+      <title>Othello and Iago, a Marriage Made in Both Heaven and Hell</title>
+      <link>https://www.nytimes.com/2025/03/31/theater/othello-broadway-denzel-washington-gyllenhaal.html</link>
+      <description>Because Shakespeare gave his hero and antihero equal weight, the contest between the actors playing them has never been that easy to call.</description>
+      <pubDate>Mon, 31 Mar 2025 20:44:42 +0000</pubDate>
+      <author>Ben Brantley</author>
+      <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">Paul Robeson, the first Black man to play Othello on Broadway, with Uta Hagen as Desdemona in the 1943 production. His watershed portrayal was wildly acclaimed.</content:encoded>
     </item>
     <item>
       <title>‘A Tiny Bit of Math’ Might Improve Your Heart Health, Study Suggests</title>
@@ -40,27 +42,6 @@
       <pubDate>Fri, 28 Mar 2025 01:06:54 +0000</pubDate>
       <author>Christina Jewett, Emily Baumgaertner Nunn and Sheryl Gay Stolberg</author>
       <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">Robert F. Kennedy Jr., the health secretary, at the U.S. Capitol in March. Mr. Kennedy has long held that there is a link between certain vaccines and autism.</content:encoded>
-    </item>
-    <item>
-      <title>Dozens of Engaging Ways to Make Media Literacy Meaningful to Teenagers</title>
-      <link>https://www.nytimes.com/2025/03/27/learning/media-literacy-teenagers.html</link>
-      <description>This collection of interactive exercises uses Times resources to help young people find the news that matters to them, understand how it’s made, connect it to their lives — and make media of their own.</description>
-      <pubDate>Thu, 27 Mar 2025 12:03:56 +0000</pubDate>
-      <author>The Learning Network</author>
-    </item>
-    <item>
-      <title>Brandon Flynn and Jordan Tannahill’s Cinematic East Village Apartment</title>
-      <link>https://www.nytimes.com/2025/03/20/t-magazine/brandon-flynn-new-york-apartment.html</link>
-      <description>In Brandon Flynn and the writer Jordan Tannahill’s 750-square-foot East Village apartment, a bold palette is filtered through a minimalist lens.</description>
-      <pubDate>Fri, 21 Mar 2025 15:31:24 +0000</pubDate>
-      <author>Carly Olson and Angela Hau</author>
-    </item>
-    <item>
-      <title>What to Know About Adderall, Ritalin and Other Prescription Stimulants</title>
-      <link>https://www.nytimes.com/2025/03/27/well/mind/adhd-adderall-ritalin-stimulant-facts.html</link>
-      <description>Health Secretary Robert F. Kennedy Jr. has called them poison, but doctors say prescription stimulants like Ritalin and Adderall help millions of people.</description>
-      <pubDate>Thu, 27 Mar 2025 09:02:20 +0000</pubDate>
-      <author>Christina Caron</author>
     </item>
     <item>
       <title>Senate Confirms Bhattacharya and Makary to H.H.S. Posts</title>
