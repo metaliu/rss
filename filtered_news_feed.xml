@@ -4,13 +4,12 @@
     <title>NYTimes Filtered</title>
     <link>https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml</link>
     <description>Filtered news feed based on specified categories.</description>
-    <pubDate>Wed, 02 Apr 2025 18:14:58 UTC</pubDate>
+    <pubDate>Wed, 02 Apr 2025 18:30:08 UTC</pubDate>
     <item>
-      <title>‘White Lotus’ Highlights the Way Old Friends Bring Out Our Worst Selves</title>
+      <title>Title not available</title>
       <link>https://www.nytimes.com/2025/04/01/well/live/white-lotus-friendship-teenagers.html</link>
-      <description>“The White Lotus” highlights a common phenomenon in long-term friend groups: Nobody ever changes.</description>
-      <pubDate>Tue, 01 Apr 2025 09:03:37 +0000</pubDate>
-      <author>Alisha Haridasani Gupta</author>
+      <description>Description not available</description>
+      <pubDate>Tue, 01 Apr 2025 09:03:37 UTC</pubDate>
     </item>
     <item>
       <title>Title not available</title>
@@ -257,8 +256,8 @@
     <item>
       <title>Supreme Court Rules Against Makers of Flavored Vapes Popular With Teens</title>
       <link>https://www.nytimes.com/2025/04/02/us/supreme-court-flavored-vapes.html</link>
-      <description>The justices handed a win to the Food and Drug Administration in its rejection of applications from makers of flavored liquids used in e-cigarettes.</description>
-      <pubDate>Wed, 02 Apr 2025 17:28:34 +0000</pubDate>
+      <description>The justices handed a win, for now, to the Food and Drug Administration in its rejection of applications from makers of flavored liquids used in e-cigarettes.</description>
+      <pubDate>Wed, 02 Apr 2025 18:24:56 +0000</pubDate>
       <author>Adam Liptak, Abbie VanSickle and Christina Jewett</author>
       <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">A 2009 law, the Family Smoking Prevention and Tobacco Control Act, requires makers of new tobacco products to obtain authorization from the F.D.A.</content:encoded>
     </item>
@@ -290,172 +289,63 @@
       <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">Val Kilmer’s one-time role as Batman came in the 1995 film “Batman Forever.”</content:encoded>
     </item>
     <item>
-      <title>RFK Jr. Turns to a Discredited Vaccine Researcher for Autism Study</title>
-      <link>https://www.nytimes.com/2025/03/27/health/rfk-jr-autism-vaccines.html</link>
-      <description>David Geier has been hired as a senior data analyst at H.H.S. According to several people, he will examine any potential links between vaccines and autism that were debunked long ago.</description>
-      <pubDate>Fri, 28 Mar 2025 01:06:54 +0000</pubDate>
-      <author>Christina Jewett, Emily Baumgaertner Nunn and Sheryl Gay Stolberg</author>
-      <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">Robert F. Kennedy Jr., the health secretary, at the U.S. Capitol in March. Mr. Kennedy has long held that there is a link between certain vaccines and autism.</content:encoded>
+      <title>A New Dinosaur Museum Rises From a Hole in the Ground in New Jersey</title>
+      <link>https://www.nytimes.com/2025/03/31/science/dinosaur-fossil-museum-new-jersey.html</link>
+      <description>The museum hopes that after learning about the planet’s prehistoric past, people will do more to preserve Earth’s future.</description>
+      <pubDate>Mon, 31 Mar 2025 09:02:48 +0000</pubDate>
+      <author>Kenneth Chang</author>
+      <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">Ric Edelman, left, whose donation helped build the Edelman Fossil Park &amp; Museum, looks up at a re-creation of a baby hadrosaur in one of the exhibits.</content:encoded>
     </item>
     <item>
-      <title>March 2025 Partial Solar Eclipse: Where and How to Watch</title>
-      <link>https://www.nytimes.com/2025/03/28/science/partial-solar-eclipse-when-how-watch.html</link>
-      <description>If you’re on the East Coast, wake up early to try and catch the moon take a bite out of the sun on Saturday.</description>
-      <pubDate>Sat, 29 Mar 2025 14:47:12 +0000</pubDate>
-      <author>Katrina Miller</author>
+      <title>20 New Books to Read in April: Joan Didion, Emily Henry, Tina Knowles and more</title>
+      <link>https://www.nytimes.com/2025/03/31/books/new-books-april.html</link>
+      <description>A posthumous Joan Didion book, Emily Henry’s latest romance novel, Tina Knowles’s memoir and more.</description>
+      <pubDate>Mon, 31 Mar 2025 09:01:06 +0000</pubDate>
     </item>
     <item>
-      <title>E.P.A. Offers a Way to Avoid Clean-Air Rules: Send an Email</title>
-      <link>https://www.nytimes.com/2025/03/27/climate/epa-air-pollution-exemption-mercury-coal-ash.html</link>
-      <description>Referring to a little-known provision, it said power plants and others could write to seek exemptions to mercury and other restrictions and that “the president will make a decision.”</description>
-      <pubDate>Thu, 27 Mar 2025 17:38:11 +0000</pubDate>
-      <author>Hiroko Tabuchi</author>
-      <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">A coal-burning power plant in Colorado in 2023. The Biden administration had put new rules in place on emissions from power plants.</content:encoded>
+      <title>In 50th Anniversary Shows, Danspace Project Pulls Past Into Present</title>
+      <link>https://www.nytimes.com/2025/03/31/arts/dance/danspace-project-reminaging-old-works.html</link>
+      <description>As part of its 50th anniversary, the East Village institution presents reimagined dances by Ishmael Houston-Jones and Fred Holland, Donna Uchizono and Bebe Miller.</description>
+      <pubDate>Mon, 31 Mar 2025 15:17:30 +0000</pubDate>
+      <author>Gia Kourlas and Brian Seibert</author>
     </item>
     <item>
-      <title>NASA’s Webb Telescope Spots Auroras on Neptune for the First Time</title>
-      <link>https://www.nytimes.com/2025/03/26/science/neptune-aurora-nasa-webb-telescope.html</link>
-      <description>The James Webb Space Telescope identified the lights in the distant planet’s atmosphere, which could not be seen by earlier telescopes or spacecraft.</description>
-      <pubDate>Wed, 26 Mar 2025 21:33:46 +0000</pubDate>
-      <author>Robin George Andrews</author>
-      <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">The Near-Infrared Spectrograph on the James Webb Space Telescope picked up cyan splotches of auroral activity, right, that could not be picked up by the Hubble, left, and other telescopes in the past.</content:encoded>
+      <title>My Friend’s Show Was Kind of Terrible. What Do I Say When I See Them?</title>
+      <link>https://www.nytimes.com/2025/03/31/arts/art-friendship.html</link>
+      <description>You can always consider telling the truth, but it may not be advisable in this case.</description>
+      <pubDate>Mon, 31 Mar 2025 09:00:06 +0000</pubDate>
+      <author>Michael Paulson</author>
     </item>
     <item>
-      <title>Molly Young on Space and Music</title>
-      <link>https://www.nytimes.com/2025/03/29/books/read-like-wind-recommendations.html</link>
-      <description>A Booker-winning novel; a rocking essay collection.</description>
-      <pubDate>Sat, 29 Mar 2025 11:50:02 +0000</pubDate>
+      <title>‘Dying for Sex,’ Plus 7 Things to Watch on TV this Week</title>
+      <link>https://www.nytimes.com/2025/03/31/arts/television/dying-for-sex.html</link>
+      <description>The Hulu show starring Michelle Williams premieres, and the third season of “White Lotus” wraps up.</description>
+      <pubDate>Mon, 31 Mar 2025 13:50:45 +0000</pubDate>
+      <author>Shivani Gonzalez</author>
+      <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">Michelle Williams in “Dying for Sex.”</content:encoded>
     </item>
     <item>
-      <title>Last Tango in the Guggenheim</title>
-      <link>https://www.nytimes.com/2025/03/29/arts/design/ballet-hispanico-guggenheim-museum.html</link>
-      <description>Members of the dance company Ballet Hispánico weren’t the only ones who swirled amid the art in the museum’s rotunda during a recent presentation and tango class.</description>
-      <pubDate>Sun, 30 Mar 2025 15:05:59 +0000</pubDate>
-      <author>Annie Aguiar and Vidhya Nagarajan</author>
+      <title>‘The White Lotus’ Season 3, Episode 7: Lovers and Fighters</title>
+      <link>https://www.nytimes.com/2025/03/30/arts/television/the-white-lotus-season-3-episode-7-recap.html</link>
+      <description>“The White Lotus” tells us only enough about the characters’ pasts to explain some of the choices they make. Sometimes this works; sometimes it doesn’t.</description>
+      <pubDate>Mon, 31 Mar 2025 17:08:41 +0000</pubDate>
+      <author>Noel Murray</author>
+      <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">Carrie Coon in “The White Lotus.”</content:encoded>
     </item>
     <item>
-      <title>5 Podcasts Where Truth Is Stranger Than Fiction</title>
-      <link>https://www.nytimes.com/2025/03/29/arts/nonfiction-true-crime-podcasts.html</link>
-      <description>These twist-filled shows can offer a real-world escape from the drumbeat of news.</description>
-      <pubDate>Sat, 29 Mar 2025 09:02:25 +0000</pubDate>
-      <author>Emma Dibdin</author>
+      <title>Traveling to Finland for Lessons on Happiness</title>
+      <link>https://www.nytimes.com/2025/03/31/travel/finland-happiness-challenge.html</link>
+      <description>Can forest walks, cold plunges and talking to trees make you happier? An anxious American went to Helsinki to see if what she learned there could lift her spirits back home.</description>
+      <pubDate>Mon, 31 Mar 2025 09:02:06 +0000</pubDate>
+      <author>Britta Lokting</author>
     </item>
     <item>
-      <title>How to Live in the Mall</title>
-      <link>https://www.nytimes.com/2025/03/29/movies/how-to-live-in-the-mall.html</link>
-      <description>Want your living space a stone’s throw from the Aéropostale and Hot Topic? A new documentary, “Secret Mall Apartment,” will show you the way.</description>
-      <pubDate>Mon, 31 Mar 2025 15:03:47 +0000</pubDate>
-      <author>Esther Zuckerman</author>
-    </item>
-    <item>
-      <title>Lucy Dacus on the Art of Frames (and Busting Out of Them)</title>
-      <link>https://www.nytimes.com/2025/03/29/arts/music/lucy-dacus-movies-books-tv.html</link>
-      <description>The singer and songwriter chats about the movies (“Paris, Texas”), music (SZA) and books (“Healing Back Pain”) that shape her world as she releases her fourth LP.</description>
-      <pubDate>Sat, 29 Mar 2025 09:02:02 +0000</pubDate>
-      <author>Julia Jacobs</author>
-      <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">“Framing is such a huge part of art,” Lucy Dacus said. “What are you putting in the confines of the frame? What are you filling in time? What are you putting in front of people?”</content:encoded>
-    </item>
-    <item>
-      <title>Maryland’s Kermit the Frog Commencement Choice Gets Mixed Reaction From Students</title>
-      <link>https://www.nytimes.com/2025/03/28/style/kermit-university-of-maryland-commencement-reaction.html</link>
-      <description>The University of Maryland says it is honoring Jim Henson, an alumnus, with its choice of commencement speaker. Some students think it is avoiding “real issues.”</description>
-      <pubDate>Fri, 28 Mar 2025 16:19:20 +0000</pubDate>
-      <author>Callie Holtermann</author>
-      <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">Kermit the Frog will deliver a commencement speech at the University of Maryland on May 21.</content:encoded>
-    </item>
-    <item>
-      <title>Have Young People Really Turned MAGA?</title>
-      <link>https://www.nytimes.com/2025/03/26/opinion/young-maga-trump-vote.html</link>
-      <description>Feeling empowered is different from numerical growth.</description>
-      <pubDate>Wed, 26 Mar 2025 12:34:48 +0000</pubDate>
-      <author>Neil Gross</author>
-    </item>
-    <item>
-      <title>Hiking the Cactus to Clouds Route in Palm Springs, Calif.</title>
-      <link>https://www.nytimes.com/2025/03/25/travel/cactus-to-clouds-hike-palm-springs.html</link>
-      <description>The Cactus to Clouds ascent just outside Palm Springs, Calif., is grueling, but natural treasures, and a speedy trip down, await anyone who is up to the challenge.</description>
-      <pubDate>Tue, 25 Mar 2025 09:00:17 +0000</pubDate>
-      <author>Dina Mishev and Max Whittaker</author>
-      <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">Cactus to Clouds, on Mount San Jacinto near Palm Springs, Calif., has been rated the fifth-hardest day hike in America.</content:encoded>
-    </item>
-    <item>
-      <title>Why Is It So Hard to Find a Good Nonalcoholic Wine?</title>
-      <link>https://www.nytimes.com/2025/03/28/dining/drinks/nonalcoholic-wine.html</link>
-      <description>Extracting the alcohol from a wine can also remove richness and body from the finished product. But these 10 producers have cracked the code.</description>
-      <pubDate>Fri, 28 Mar 2025 09:03:10 +0000</pubDate>
-      <author>Eric Asimov</author>
-    </item>
-    <item>
-      <title>A Queens Bar Becomes a Beacon for Inspired Mexican American Food</title>
-      <link>https://www.nytimes.com/2025/03/25/dining/hellbender-nyc-restaurant-review.html</link>
-      <description>Like the big cat that presides over this Ridgewood restaurant, Hellbender knows how to stretch — mixing late-night vibes with polished cooking.</description>
-      <pubDate>Tue, 25 Mar 2025 19:34:36 +0000</pubDate>
-      <author>Melissa Clark</author>
-      <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">The inventive Mexican American menu, thrumming music and convivial vibe at Hellbender make it an ideal place to bring a large, taco-loving group.</content:encoded>
-    </item>
-    <item>
-      <title>George Foreman Turned a Home Grill Into a Culinary Heavyweight</title>
-      <link>https://www.nytimes.com/2025/03/22/dining/george-foreman-grill.html</link>
-      <description>The former boxer transformed American cooking, and himself, with an appliance that remains a cultural touchstone.</description>
-      <pubDate>Sun, 23 Mar 2025 15:13:52 +0000</pubDate>
-      <author>Kim Severson</author>
-      <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">While boxing fans will always remember his enduring legacy, George Foreman holds a special place in the hearts of 1990s cooks who wanted lower-fat meals.</content:encoded>
-    </item>
-    <item>
-      <title>Easy Pasta Recipes to Welcome Spring</title>
-      <link>https://cooking.nytimes.com/article/easy-spring-pasta-recipes</link>
-      <description>These vibrant, produce-packed meals are just the thing for celebrating warmer days.</description>
-      <pubDate>Thu, 20 Mar 2025 14:42:57 +0000</pubDate>
-      <author>Krysten Chambrot</author>
-      <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">Andy Baraghani’s pasta salad gets its green from spinach and basil.</content:encoded>
-    </item>
-    <item>
-      <title>Roasted Salmon Recipe for Spring</title>
-      <link>https://www.nytimes.com/2025/03/31/dining/spring-roasted-salmon-recipe.html</link>
-      <description>The peas are fat and sweet, the radishes are small and peppery. It’s time for this Kay Chun stunner.</description>
-      <pubDate>Mon, 31 Mar 2025 15:00:11 +0000</pubDate>
-      <author>Tejal Rao</author>
-      <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">Kay Chun’s roasted salmon with peas and radishes.</content:encoded>
-    </item>
-    <item>
-      <title>Chicken Cobbler Is an Easier Potpie</title>
-      <link>https://www.nytimes.com/2025/03/30/dining/easy-chicken-cobbler.html</link>
-      <description>Mark Bittman’s classic recipe turns a little chicken (just two boneless thighs) and a lot of vegetables into a cozy Sunday dinner.</description>
-      <pubDate>Sun, 30 Mar 2025 15:00:03 +0000</pubDate>
-      <author>Sam Sifton</author>
-      <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">Mark Bittman’s chicken cobbler.</content:encoded>
-    </item>
-    <item>
-      <title>‘I’d Always Wanted to Make Biryani, and This Did Not Disappoint’</title>
-      <link>https://www.nytimes.com/2025/03/28/dining/id-always-wanted-to-make-biryani-and-this-did-not-disappoint.html</link>
-      <description>Naz Deravian’s reader-favorite chicken biryani is a beautiful weekend dish, its preparation a satisfying process with delicious results.</description>
-      <pubDate>Fri, 28 Mar 2025 15:00:25 +0000</pubDate>
-      <author>Sam Sifton</author>
-      <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">Naz Deravian’s chicken biryani.</content:encoded>
-    </item>
-    <item>
-      <title>Celebrating Eid al-Fitr With a Couple Dozen Doughnuts</title>
-      <link>https://www.nytimes.com/2025/03/28/dining/eid-al-fitr-doughnuts.html</link>
-      <description>For some Muslim Americans, the best (and only) way to celebrate Eid al-Fitr is with a couple dozen doughnuts.</description>
-      <pubDate>Fri, 28 Mar 2025 14:44:27 +0000</pubDate>
-      <author>Sarah Khan</author>
-      <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">At Detour Doughnuts in Frisco, Texas, crescent moon shaped doughnuts are an Eid specialty.</content:encoded>
-    </item>
-    <item>
-      <title>Recipes That Use Green Onions</title>
-      <link>https://www.nytimes.com/2025/03/27/dining/green-onion-recipes.html</link>
-      <description>They’re versatile and welcome in all sorts of dishes, like quick stir-fried noodles, toasted sesame waffles and a platter of roasted spring vegetables.</description>
-      <pubDate>Fri, 28 Mar 2025 15:49:51 +0000</pubDate>
-      <author>Tanya Sichynsky</author>
-      <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">Hetty Lui McKinnon’s ramen with charred scallions, green beans and chile oil.</content:encoded>
-    </item>
-    <item>
-      <title>Want to Eat More Fish? Start Here.</title>
-      <link>https://www.nytimes.com/2025/03/27/dining/how-to-eat-more-fish.html</link>
-      <description>These 14 delicious recipes — including this one-pan roasted fish with cherry tomatoes — make eating more fish a delight and a breeze.</description>
-      <pubDate>Thu, 27 Mar 2025 15:00:21 +0000</pubDate>
-      <author>Mia Leimkuhler</author>
-      <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">Lidey Heuck’s one-pan roasted fish with cherry tomatoes.</content:encoded>
+      <title>How to Pack a Cheaper, Healthier and Better Lunch</title>
+      <link>https://cooking.nytimes.com/article/easy-healthy-lunch-ideas</link>
+      <description>Be a better “bring your lunch to work” person with these expert tips.</description>
+      <pubDate>Mon, 31 Mar 2025 14:50:20 +0000</pubDate>
+      <author>Ali Slagle</author>
+      <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">Make a lunch you’ll dream about.</content:encoded>
     </item>
   </channel>
 </rss>
